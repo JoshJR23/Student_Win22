@@ -1,13 +1,11 @@
 /*
 Name: Joshua Robinson
 Date: 25 Jan 2022
+Author: Joshua R
+Day: Tuesday 
  */
 package student_win22;
 
-/**
- *
- * @author joshs
- */
 public class Student {
     
     private String studentId;
